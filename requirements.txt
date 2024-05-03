@@ -87,7 +87,7 @@ squareconnect==2.20190724.1
 squareup==25.2.0.20230315
 stripe==5.4.0
 tifffile==2023.3.21
-tqdm==4.65.0
+tqdm==4.66.3
 typing-extensions==3.10.0.2
 urllib3==1.26.15
 websockets==11.0.1
