@@ -40,7 +40,7 @@ hyperframe==5.2.0
 idna==2.10
 imageio==2.27.0
 iso8601==1.1.0
-Jinja2==3.1.2
+Jinja2==3.1.4
 jsonpickle==3.0.1
 jsonpointer==2.3
 kiwisolver==1.4.4
